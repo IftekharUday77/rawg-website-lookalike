@@ -1,4 +1,4 @@
-import { Game } from "../hooks/useGames";
+import { Game } from "../entities/Game";
 import { Card, CardBody } from "@chakra-ui/card";
 import { HStack, Heading, Image } from "@chakra-ui/react";
 //import PlatformIcon from "./PlatformIcon";
